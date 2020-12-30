@@ -10,6 +10,7 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 - https://github.com/Neo23x0/signature-base/blob/master/yara/crime_emotet.yar
 - https://github.com/Yara-Rules/rules/blob/master/malware/MALW_Emotet.yar
 - https://github.com/advanced-threat-research/Yara-Rules/blob/master/malware/MALW_emotet.yar
+- https://github.com/bartblaze/Yara-rules/blob/master/rules/crimeware/Unk_Crime_Downloader_1.yar
 - https://github.com/ctxis/CAPE/blob/master/data/yara/CAPE/Emotet.yar
 - https://github.com/ctxis/CAPE/blob/master/data/yara/CAPE/Emotet_Loader.yar
 - https://github.com/elektr0ninja/maldoc-rules/blob/master/Maldoc_Emotet_Base64_PowerShell.yar
