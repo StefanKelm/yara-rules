@@ -6,6 +6,7 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 
 ## Emotet rules
 
+-  https://www.bka.de/SharedDocs/Downloads/DE/IhreSicherheit/Warnhinweise/WarnhinweisEMOTET_technischeIndikatoren.asc;jsessionid=35B4FB86F41696A00FAB52EA50CB9D96.live0612?__blob=publicationFile&v=4 (via https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Warnhinweise/210416_Emotet.html?nn=3806)
 - https://github.com/JPCERTCC/MalConfScan/blob/master/yara/rule.yara
 - https://github.com/Neo23x0/signature-base/blob/master/yara/crime_emotet.yar
 - https://github.com/Yara-Rules/rules/blob/master/malware/MALW_Emotet.yar
