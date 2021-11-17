@@ -1,6 +1,6 @@
 # Links to YARA rules
 
-This page contains links to malware-related YARA rules which have been provided by the community and which can be used to hunt for certain malware families using tools such as [ClamAV](https://www.clamav.net/documents/using-yara-rules-in-clamav).
+This page contains links to malware-related YARA rules which have been provided by the community and which can be used to hunt for certain malware families using tools such as [ClamAV](https://docs.clamav.net/manual/Signatures/YaraRules.html).
 
 Use at your own risk. Some rules may be outdated, others may lead to false positives.
 
