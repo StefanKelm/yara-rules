@@ -6,6 +6,7 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 
 ## Emotet rules
 
+- https://github.com/StrangerealIntel/DailyIOC/blob/master/2021-11-16/MAL_Emotet_Nov_2021_1.yara
 -  https://www.bka.de/SharedDocs/Downloads/DE/IhreSicherheit/Warnhinweise/WarnhinweisEMOTET_technischeIndikatoren.asc;jsessionid=35B4FB86F41696A00FAB52EA50CB9D96.live0612?__blob=publicationFile&v=4 (via https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Warnhinweise/210416_Emotet.html?nn=3806)
 - https://github.com/JPCERTCC/MalConfScan/blob/master/yara/rule.yara
 - https://github.com/Neo23x0/signature-base/blob/master/yara/crime_emotet.yar
@@ -24,4 +25,3 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 - https://github.com/zourick/yrepo/blob/master/Suspicious/ClamAV_Emotet_String_Aggregrate.yar
 - https://malpedia.caad.fkie.fraunhofer.de/yara/win.emotet
 - https://www.binarydefense.com/emotet-evolves-with-new-wi-fi-spreader/
-- https://github.com/StrangerealIntel/DailyIOC/blob/master/2021-11-16/MAL_Emotet_Nov_2021_1.yara
