@@ -15,7 +15,7 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 - https://github.com/ctxis/CAPE/blob/master/data/yara/CAPE/Emotet.yar
 - https://github.com/ctxis/CAPE/blob/master/data/yara/CAPE/Emotet_Loader.yar
 - https://github.com/elektr0ninja/maldoc-rules/blob/master/Maldoc_Emotet_Base64_PowerShell.yar
-- https://github.com/mikesxrs/Open-Source-YARA-rules/blob/master/GoDaddy/emotet.yara
+- https://github.com/mikesxrs/Open-Source-YARA-rules/blob/master/GoDaddy/emotet.yara (likely a copy of https://github.com/godaddy/yara-rules/blob/master/emotet.yara)
 - https://github.com/mikesxrs/Open-Source-YARA-rules/blob/master/PL%20CERT/emotet.yara
 - https://github.com/mikesxrs/Open-Source-YARA-rules/blob/master/carbon%20black/emotet.yar
 - https://github.com/plushed/Yara-Rules/blob/master/emotet_pe_fuck_sophos.yar
@@ -24,3 +24,4 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 - https://github.com/zourick/yrepo/blob/master/Suspicious/ClamAV_Emotet_String_Aggregrate.yar
 - https://malpedia.caad.fkie.fraunhofer.de/yara/win.emotet
 - https://www.binarydefense.com/emotet-evolves-with-new-wi-fi-spreader/
+- https://github.com/StrangerealIntel/DailyIOC/blob/master/2021-11-16/MAL_Emotet_Nov_2021_1.yara
