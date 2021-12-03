@@ -6,6 +6,7 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 
 ## Emotet rules
 
+- https://docs.velociraptor.app/exchange/artifacts/pages/windows.carving.emotet/
 - https://github.com/StrangerealIntel/DailyIOC/blob/master/2021-11-16/MAL_Emotet_Nov_2021_1.yara
 -  https://www.bka.de/SharedDocs/Downloads/DE/IhreSicherheit/Warnhinweise/WarnhinweisEMOTET_technischeIndikatoren.asc;jsessionid=35B4FB86F41696A00FAB52EA50CB9D96.live0612?__blob=publicationFile&v=4 (via https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Warnhinweise/210416_Emotet.html?nn=3806)
 - https://github.com/JPCERTCC/MalConfScan/blob/master/yara/rule.yara
