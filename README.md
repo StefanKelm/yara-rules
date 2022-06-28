@@ -26,5 +26,5 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 - https://github.com/zourick/yrepo/blob/master/Suspicious/ClamAV_Emotet_String_Aggregrate.yar
 - https://malpedia.caad.fkie.fraunhofer.de/yara/win.emotet
 - https://www.binarydefense.com/emotet-evolves-with-new-wi-fi-spreader/
-- https://github.com/netskopeoss/NetskopeThreatLabsIOCs/blob/main/Emotet/IOCs/2022-05-06/Emotet.yar
+- https://github.com/netskopeoss/NetskopeThreatLabsIOCs/blob/main/Emotet/2022-05-06/Emotet.yar
 - https://github.com/netskopeoss/NetskopeThreatLabsIOCs/blob/main/Emotet/2022-06-24/Emotet.yar
