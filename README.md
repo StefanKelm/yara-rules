@@ -24,7 +24,9 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 - https://github.com/reversinglabs/reversinglabs-yara-rules/blob/develop/yara/trojan/Win32.Trojan.Emotet.yara
 - https://github.com/sirpedrotavares/SI-LAB-Yara_rules/blob/master/EMOTET_Chile_20190410.yar
 - https://github.com/zourick/yrepo/blob/master/Suspicious/ClamAV_Emotet_String_Aggregrate.yar
+- https://github.com/GossiTheDog/ThreatHunting/blob/master/YARA/Emotet.yar
 - https://malpedia.caad.fkie.fraunhofer.de/yara/win.emotet
 - https://www.binarydefense.com/emotet-evolves-with-new-wi-fi-spreader/
+- https://github.com/c3rb3ru5d3d53c/signatures/blob/master/signatures/malware/emotet/emotet.yara-4.0.2.yara
 - https://github.com/netskopeoss/NetskopeThreatLabsIOCs/blob/main/Emotet/2022-05-06/Emotet.yar
 - https://github.com/netskopeoss/NetskopeThreatLabsIOCs/blob/main/Emotet/2022-06-24/Emotet.yar
