@@ -30,3 +30,4 @@ Use at your own risk. Some rules may be outdated, others may lead to false posit
 - https://github.com/c3rb3ru5d3d53c/signatures/blob/master/signatures/malware/emotet/emotet.yara-4.0.2.yara
 - https://github.com/netskopeoss/NetskopeThreatLabsIOCs/blob/main/Emotet/2022-05-06/Emotet.yar
 - https://github.com/netskopeoss/NetskopeThreatLabsIOCs/blob/main/Emotet/2022-06-24/Emotet.yar
+- https://github.com/elastic/protections-artifacts/blob/main/yara/rules/Windows_Trojan_Emotet.yar
